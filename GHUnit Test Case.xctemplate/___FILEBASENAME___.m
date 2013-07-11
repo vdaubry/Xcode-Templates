@@ -7,7 +7,7 @@
 //
 
 #import <GHUnitIOS/GHUnit.h>
-//#import <OCMock/OCMock.h>
+#import <OCMock/OCMock.h>
  
 @interface ___FILEBASENAMEASIDENTIFIER___ : GHTestCase { }
 @end
